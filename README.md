@@ -2,6 +2,6 @@
 
 Data Structure Project. 
 
-All of the code has a detailed annotation.
+All of the codes have a detailed annotation.
 
 I will be happy if it can help you.
