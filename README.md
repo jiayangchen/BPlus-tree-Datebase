@@ -10,4 +10,4 @@ Data Structure Project.
 
 * I will be happy if it can help you.
 
->>>>>>>>>Date 2015-08-10
+*  Date 2015-08-10
