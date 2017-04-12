@@ -1,7 +1,7 @@
 # B-tree-Datebase
 
 ### 中文
-####这是一个用C++写的小型数据库
+#### 这是一个用C++写的小型数据库
 ----------------------
 * 所有代码有详细注释
 
@@ -11,7 +11,7 @@
 
 
 ### English
-####Data Structure Project. 
+#### Data Structure Project. 
 ----------------------
 * All of the codes have a detailed annotation.
 
@@ -22,3 +22,7 @@
 * I will be happy if it can help you.
 
 *  Date 2015-08-10
+
+## License
+
+MIT License
